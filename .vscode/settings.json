@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "charliermarsh.ruff",
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportArgumentType": "none",
+    "reportUnknownArgumentType": "none",
+    "reportUnknownLambdaType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownParameterType": "none",
+    "reportUnknownVariableType": "none",
+    "reportMissingTypeStubs": "none",
+    "reportMissingTypeArgument": "none",
+    "reportMissingParameterType": "none",
+  }
+}
