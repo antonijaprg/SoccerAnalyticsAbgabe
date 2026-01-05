@@ -7,3 +7,4 @@ scikit-learn
 scikit-learn-stubs
 seaborn
 statsmodels
+xgboost
